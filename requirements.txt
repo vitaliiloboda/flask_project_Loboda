@@ -46,7 +46,6 @@ PyGetWindow==0.0.8
 PyMsgBox==1.0.8
 pyobjc==8.5
 pyobjc-framework-Accounts==8.5
-pyobjc-framework-AddressBook==8.5
 pyobjc-framework-AdServices==8.5
 pyobjc-framework-AdSupport==8.5
 pyobjc-framework-AppleScriptKit==8.5
